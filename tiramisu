@@ -1,5 +1,5 @@
 <model-viewer
-  src="https://sashashort.github.io/3D-assets-Chef-s-Choice/tiramisu+plate%20WEBAR%20ready%20.compressed.glb"
+  src="https://cdn.jsdelivr.net/gh/sashashort/3D-assets-Chef-s-Choice/raw/refs/heads/main/tiramisu"
   alt="Tiramisu on a plate"
   auto-rotate
   camera-controls
