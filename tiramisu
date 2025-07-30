@@ -1,0 +1,10 @@
+<model-viewer
+  src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/Tiramisu_Plus_Plate_WebAR_Ready_compressed.glb"
+  alt="Tiramisu on plate"
+  auto-rotate
+  camera-controls
+  ar
+  ar-modes="scene-viewer webxr quick-look"
+  style="width: 100%; height: 400px;"
+>
+</model-viewer>
