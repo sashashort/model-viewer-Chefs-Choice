@@ -1,5 +1,5 @@
 <model-viewer
-  src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/Tiramisu_Plus_Plate_WebAR_Ready_compressed.glb"
+  src="https://github.com/sashashort/3D-assets-Chef-s-Choice/raw/refs/heads/main/tiramisu+plate%20WEBAR%20ready%20.compressed.glb"
   alt="Tiramisu on plate"
   auto-rotate
   camera-controls
