@@ -4,7 +4,7 @@
   src="https://cdn.jsdelivr.net/gh/sashashort/3D-assets-Chef-s-Choice@main/tiramisu.glb"
   alt="Tiramisu"
   auto-rotate
-  rotation-speed="1.5"
+  auto-rotate-delay="0"
   camera-controls
   disable-zoom
   disable-pan
