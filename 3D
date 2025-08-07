@@ -1,8 +1,8 @@
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <model-viewer
-  src="https://cdn.jsdelivr.net/gh/sashashort/3D-assets-Chef-s-Choice@main/3d.glb"
-  alt="Tiramisu"
+  src="https://cdn.jsdelivr.net/gh/sashashort/3D-assets-Chef-s-Choice@main/3D.glb"
+  alt="3D"
   auto-rotate
   auto-rotate-delay="0"
   camera-controls
